@@ -1,0 +1,7 @@
+AI Company Stitch font assets
+
+Manrope v20: Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope). SIL Open Font License 1.1.
+JetBrains Mono v24: Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono). SIL Open Font License 1.1.
+Material Symbols Outlined v382: Google Material Design Icons project (https://github.com/google/material-design-icons). Apache License 2.0.
+
+Font binaries are unmodified local copies of the families requested by the approved Stitch designs. The adjacent license files retain their redistribution terms; provenance.json records official download URLs and SHA-256 hashes. Retrieved 2026-10-27.

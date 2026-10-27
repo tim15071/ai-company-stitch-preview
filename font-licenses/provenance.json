@@ -1,0 +1,90 @@
+{
+  "retrieved": "2026-10-27",
+  "cssUserAgent": "Chrome 130, Windows 10",
+  "assets": [
+    {
+      "file": "material-symbols-full.woff2",
+      "url": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v382/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsI.woff2",
+      "bytes": 4006044,
+      "sha256": "1d0cc74e839c27054ecf4e122c713da83ce1a927efe6c972f120688c5fe60a41"
+    },
+    {
+      "file": "material-symbols-weight-fill.woff2",
+      "url": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v382/kJEPBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzBwG-RpA6RzaxHMPdY40KH8nGzv3fzfVJO1Q.woff2",
+      "bytes": 1139560,
+      "sha256": "063d21b404f5e048c8f7535d3ca4cf80c6d996a08e5c5ba8dfe38bb8dfdb4595"
+    },
+    {
+      "file": "jetbrains-mono-1.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhsk.woff2",
+      "bytes": 1640,
+      "sha256": "62213be8a78b42f1e29d1452d91e2f8b3e745572a9dd98d3941e39fa00b37d76"
+    },
+    {
+      "file": "jetbrains-mono-2.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhsk.woff2",
+      "bytes": 8872,
+      "sha256": "e17cfd15fb96909d64095015f958207063a0c07191da3512df7d560a781aebdf"
+    },
+    {
+      "file": "jetbrains-mono-3.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhsk.woff2",
+      "bytes": 6836,
+      "sha256": "0a557721b1f8b36d3f3f84442689a71ca4a744300abcb46a1953f51bfc663b66"
+    },
+    {
+      "file": "jetbrains-mono-4.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhsk.woff2",
+      "bytes": 5888,
+      "sha256": "c89b9cc0bc6262bd4f8d8494b6961601f3aefa829d08c2e3635f4d501d3a47c2"
+    },
+    {
+      "file": "jetbrains-mono-5.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhsk.woff2",
+      "bytes": 11624,
+      "sha256": "db5ff4db83e580426280e9337a58dc57d3a83784a1b03ad80914651594441d52"
+    },
+    {
+      "file": "jetbrains-mono-6.woff2",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2",
+      "bytes": 31432,
+      "sha256": "83c005d49d8a6a50474c73a5a36ac0468076e9c4a29da7bdb14995d80560a5be"
+    },
+    {
+      "file": "manrope-cyrillic-ext-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 2552,
+      "sha256": "de37de877dc17e4577341fa68bb5cb526b53d54cb29721e674208546a3c7849d"
+    },
+    {
+      "file": "manrope-cyrillic-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 14500,
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914"
+    },
+    {
+      "file": "manrope-greek-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 9444,
+      "sha256": "2fb2e8cbfd52ae46179a8b6024eb162f1f9c6de3d22d6e3a30d8f395de7220be"
+    },
+    {
+      "file": "manrope-latin-ext-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 15120,
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb"
+    },
+    {
+      "file": "manrope-latin-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 24836,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "file": "manrope-vietnamese-wght-normal.woff2",
+      "source": "@fontsource-variable/manrope@5.3.0 (Google Fonts Manrope v20)",
+      "bytes": 8520,
+      "sha256": "6bbb044ab420e07edb0a3042d2eb314b85e83a0182e945a15ab3b9092668dfd5"
+    }
+  ]
+}
